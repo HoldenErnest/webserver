@@ -1,2 +1,13 @@
 /*  Holden Ernest 9/19/2024 */
 
+#latestDownload {
+    margin-left: 15px;
+}
+ul {
+    list-style-type: none; /* Remove bullets */
+    margin-left: 15px;
+    padding:0px;
+}
+.displayImage {
+    height: 300px;
+}
